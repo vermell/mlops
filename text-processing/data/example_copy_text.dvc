@@ -1,0 +1,11 @@
+md5: 8fc5b1bf589bc975914235aadee88578
+frozen: true
+deps:
+- path: text-processing/data/example_text
+  repo:
+    url: git@github.com:vermell/mlops.git
+    rev_lock: 63ed2e39eff9ef620c921c07b6c37feb34126b11
+outs:
+- md5: 8ddd8be4b179a529afa5f2ffae4b9858
+  size: 13
+  path: example_copy_text
